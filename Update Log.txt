@@ -1,0 +1,7 @@
+September 24, 2020
+Added
+1. LuckyNumbers: https://github.com/mk-dolphin37/AP-CSA-Coding-Practice-/blob/master/LuckyNumbers.java
+2. DollarsToDollars: https://github.com/mk-dolphin37/AP-CSA-Coding-Practice-/blob/master/DollarsToDollars.java
+3. Lottery: https://github.com/mk-dolphin37/AP-CSA-Coding-Practice-/blob/master/Lottery.java
+4. Radius: https://github.com/mk-dolphin37/AP-CSA-Coding-Practice-/blob/master/Radius.java
+5. Address: https://github.com/mk-dolphin37/AP-CSA-Coding-Practice-/blob/master/Address.java
